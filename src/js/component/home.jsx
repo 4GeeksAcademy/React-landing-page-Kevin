@@ -10,10 +10,8 @@ import CardPrincipal from "../CardPrincipal";
 const Home = () => {
     return (
         <div>
-            <div>
-                <Navbar/>
-                <CardPrincipal/>
-           </div>
+            <Navbar/>
+            <CardPrincipal/>
             <div className="container">
                 <div className="row justify-content-center mt-3">
                     <div className="col-3">
