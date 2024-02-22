@@ -11,8 +11,8 @@ const Home = () => {
     return (
         <div>
             <div>
-                <Navbar></Navbar>
-                <CardPrincipal></CardPrincipal>
+                <Navbar/>
+                <CardPrincipal/>
            </div>
             <div className="container">
                 <div className="row justify-content-center mt-3">
